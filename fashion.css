@@ -1,0 +1,31 @@
+html{background-color: rgb(243, 221, 207);}
+.head{
+    color:rgb(255, 154, 1);
+    font-size: 24pt;
+    font-weight: bolder;
+    text-align: center;
+    }
+
+.img1{display: block;margin: auto;
+height:400px;
+width:fit-content;}
+.img2{display: block;
+    margin: auto;
+    margin-top: 10pt;
+height: 400px;
+width: 400px;}
+
+.para{
+    color:cadetblue;
+    font-size: 14pt;
+    }
+.subhead{color: rgb(3, 113, 3);
+        text-align: left;
+        font-size: 20pt;
+}
+#linku{color: rgb(23, 104, 243);
+        text-align:left;
+        font-size: 14pt;
+
+}
+
